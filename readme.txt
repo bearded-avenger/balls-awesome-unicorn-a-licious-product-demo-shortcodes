@@ -1,4 +1,4 @@
-=== EDD Galleries by Bearded Avenger ===
+=== Balls Awesome Unicorn-a-licious Product Demo Shortcodes ===
 Donate link: http://nickhaskins.co
 Tags: shortcodes
 Requires at least: 3.0.1
